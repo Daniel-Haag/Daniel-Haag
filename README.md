@@ -1,18 +1,18 @@
 ### Hi, I'm Daniel! 👋
 
 <a href="#">
-    <img src="https://github.com/daniel-haag/daniel-haag/blob/master/assets/days.gif" title="day++" align="right" alt="Routine">
+    <img src="https://github.com/Daniel-Haag/Daniel-Haag/blob/main/assets/coder.gif?raw=true" title="Profile views" align="right" width="245px" height="157px" alt="Profile views" />
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Senior Developer.
 <br />
-:heart: ---!
+🔭 Working with .NET (C#), ASP.NET MVC, Angular, ReactJS, Vue.js, SQL Server and MySQL. 
+<br />
+🌱 Learning Design Patterns and Software Architectures. 
 <br />
 :speech_balloon: Ask me about anything <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>
-
-<img src="https://komarev.com/ghpvc/?username=daniel-haag&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
 <a href="mailto:danni.haag91@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
