@@ -1,7 +1,7 @@
 ### Hi, I'm Daniel! 👋
 
 <a href="#">
-    <img src="https://github.com/Daniel-Haag/Daniel-Haag/blob/main/assets/coder.gif?raw=true" title="Profile views" align="right" width="245px" height="157px" alt="Profile views" />
+    <img src="https://github.com/Daniel-Haag/Daniel-Haag/blob/main/assets/coder.gif?raw=true" title="Profile views" align="right" width="245px" height="158px" alt="Profile views" />
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Senior Developer.
