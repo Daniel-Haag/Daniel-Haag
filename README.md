@@ -1,4 +1,52 @@
 ### Hi there 👋
+
+<a href="#">
+    <img src="https://github.com/daniel-haag/daniel-haag/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+</a>
+
+:department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Senior Developer.
+<br />
+:heart: ---!
+<br />
+:speech_balloon: Ask me about anything <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
+<br />
+:link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>
+
+<img src="https://komarev.com/ghpvc/?username=daniel-haag&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
+
+<a href="mailto:danni.haag91@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-haag/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
+</a>
+
+<details title="Daniel Haag's Trophies">
+    <br />
+    <summary align="left"><strong><i>Daniel Haag's Trophies</i></strong> 🏆</summary>
+    <p align="center">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=daniel-haag&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
+             width="60%"
+             title="Daniel Haag's Trophies"
+        />
+    </p>
+    <p align="center">
+      <a href="https://github.com/daniel-haag/daniel-haag/issues">
+        <img src="https://img.shields.io/github/issues/daniel-haag/daniel-haag" title="issues" alt="issues" /> 
+      </a>
+      <a href="https://github.com/daniel-haag/daniel-haag/network/members">
+        <img src="https://img.shields.io/github/forks/daniel-haag/daniel-haag" title="forks" alt="forks" /> 
+      </a>
+      <a href="https://github.com/daniel-haag/daniel-haag/stargazers">
+        <img src="https://img.shields.io/github/stars/daniel-haag/daniel-haag" title="stars" alt="stars" /> 
+      </a>
+       <a href="https://github.com/daniel-haag/daniel-haag/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/daniel-haag/daniel-haag" title="license" alt="license" /> 
+      </a>
+    </p>
+</details>
 <!--
 Here are some ideas to get you started:
 
