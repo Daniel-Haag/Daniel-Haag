@@ -1,5 +1,17 @@
 ### Hi, I'm Daniel! 👋
 
+<a href="mailto:danni.haag91@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="left" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-haag/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="left" alt="LinkedIn">
+</a>
+
+<br />
+
+<hr />
+
 <a href="#">
     <img src="https://github.com/Daniel-Haag/Daniel-Haag/blob/main/assets/coder.gif?raw=true" title="Profile views" align="right" width="245px" height="158px" alt="Profile views" />
 </a>
@@ -13,14 +25,6 @@
 :speech_balloon: Ask me about anything <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>
-
-<a href="mailto:danni.haag91@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/daniel-haag/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
-</a>
 
 <details title="Daniel Haag's Trophies">
     <br />
