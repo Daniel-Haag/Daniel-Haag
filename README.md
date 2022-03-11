@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Daniel! 👋
 
 <a href="#">
-    <img src="https://github.com/daniel-haag/daniel-haag/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/daniel-haag/daniel-haag/blob/master/assets/days.gif" title="day++" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Senior Developer.
