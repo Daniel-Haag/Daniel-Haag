@@ -24,7 +24,7 @@
 <br />
 :speech_balloon: Ask me about <b>.NET</b> <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
 <br />
-:link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>
+<!--:link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>-->
 
 <details title="Daniel Haag's Trophies">
     <br />
