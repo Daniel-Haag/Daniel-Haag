@@ -22,7 +22,7 @@
 <br />
 🌱 Learning Design Patterns and Software Architectures. 
 <br />
-:speech_balloon: Ask me about anything <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
+:speech_balloon: Ask me about <b>.NET</b> <a href="https://github.com/daniel-haag/daniel-haag/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/daniel-haag">My Social Networks.</a>
 
