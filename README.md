@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="left" alt="Gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/daniel-haag/">
+<a href="linkedin.com/in/daniel-haag-4ab7a1154">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="left" alt="LinkedIn">
 </a>
 
