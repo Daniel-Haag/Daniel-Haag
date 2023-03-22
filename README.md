@@ -16,7 +16,7 @@
     <img src="https://github.com/Daniel-Haag/Daniel-Haag/blob/main/assets/coder.gif?raw=true" title="Profile views" align="right" width="245px" height="158px" alt="Profile views" />
 </a>
 
-:department_store: I'm currently working on <a href="https://www.becomex.com.br/">Numeria</a> as Mid Level Developer.
+:department_store: I'm currently working on <a href="https://www.becomex.com.br/">Becomex</a> as Mid Level Developer.
 <br />
 🔭 Working with .NET (C#), ASP.NET Core MVC, Angular, ReactJS, Vue.js, SQL Server and MySQL. 
 <br />
