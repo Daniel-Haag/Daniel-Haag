@@ -18,7 +18,7 @@
 
 :department_store: I'm currently working on <a href="https://www.becomex.com.br/">Becomex</a> as Mid Level Developer.
 <br />
-🔭 Working with .NET (C#), ASP.NET Core MVC, Angular, ReactJS, Vue.js, SQL Server and MySQL. 
+🔭 Working with .NET (C#), ASP.NET Core MVC, Angular, Vue.js, SQL Server and MySQL. 
 <br />
 🌱 Learning Design Patterns and Software Architectures. 
 <br />
